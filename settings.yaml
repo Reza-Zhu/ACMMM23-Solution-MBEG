@@ -1,0 +1,15 @@
+LPN: 0
+batch_size: 16
+block: 4
+classes: 701
+dataset_path: /root/autodl-tmp/University-Release
+drop_rate: 0.3
+fp16: 1
+image_size: 448
+lr: 0.003
+model: EVA
+name: EVA_1652_2023-07-13-08:38:00
+num_epochs: 120
+query: drone
+weight_decay: 0.001
+weight_save_path: /root/autodl-tmp/weights
