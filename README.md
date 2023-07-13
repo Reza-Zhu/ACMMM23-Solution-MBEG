@@ -20,21 +20,26 @@
 Baidu Cloud Disk Link: https://pan.baidu.com/s/1k1z90EyLaL85PqeSxxlWOw?pwd=1652 提取码: 1652 
 
 MBEG-L1 for University-1652: MBEG-L1-1652.pth
+
 Drone -> Satellite: Recall@1:  92.50   AP: 93.75
 Satellite -> Drone: Recall@1:  94.15   AP: 91.57
 
 MBEG-L1 for University-160k: MBEG-L1-160k.pth
+
 Drone -> Satellite: Recall@1:  98.94	Recall@5:99.80	 Recall@10:99.84
 
 MBEG-B1 for University-1652: MBEG-B1-1652.pth
+
 Drone -> Satellite: Recall@1:  87.48   AP: 89.36
 Satellite -> Drone: Recall@1:  90.73   AP: 86.29
 
 MBEG-B2 for University-1652: MBEG-B2-1652.pth
+
 Drone -> Satellite: Recall@1:  88.16   AP: 89.97
 Satellite -> Drone: Recall@1:  93.01   AP: 87.64
 
 MoblieViT-KD for University-1652: MobileViT-Student-1652.pth
+
 Drone -> Satellite: Recall@1:  80.57   AP: 83.44
 Satellite -> Drone: Recall@1:  88.44   AP: 80.45
    
