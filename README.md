@@ -26,6 +26,10 @@ Baidu Cloud Disk Link: https://pan.baidu.com/s/1k1z90EyLaL85PqeSxxlWOw?pwd=1652 
 - MBEG-L1 for University-160k: MBEG-L1-160k.pth
    - Drone -> Satellite: Recall@1:  98.94	Recall@5:99.80	 Recall@10:99.84
 
+- MBEG-L2 for University-1652: MBEG-L2-1652.pth
+   - Drone -> Satellite: Recall@1:  89.78   AP: 91.53
+   - Satellite -> Drone: Recall@1:  92.01   AP: 88.81
+   
 - MBEG-B1 for University-1652: MBEG-B1-1652.pth
    - Drone -> Satellite: Recall@1:  87.48   AP: 89.36
    - Satellite -> Drone: Recall@1:  90.73   AP: 86.29
@@ -52,6 +56,7 @@ https://github.com/baaivision/EVA
 
 ### MobileViT
 https://github.com/apple/ml-cvnets
-[https://huggingface.co/timm/mobilevitv2_200.cvnets_in22k_ft_in1k_384](https://huggingface.co/timm/mobilevitv2_200.cvnets_in22k_ft_in1k_384)https://huggingface.co/timm/mobilevitv2_200.cvnets_in22k_ft_in1k_384
+[https://huggingface.co/timm/mobilevitv2_200.cvnets_in22k_ft_in1k_384]
+(https://huggingface.co/timm/mobilevitv2_200.cvnets_in22k_ft_in1k_384)
 
 
