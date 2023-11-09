@@ -1,4 +1,5 @@
 # ACMMM23-Solution-MBEG
+Paper Link: https://doi.acm.org/?doi=3607834.3616562
 
 ## Modern Backbone for Efficient Geo-localization
 
@@ -22,9 +23,6 @@ Baidu Cloud Disk Link: https://pan.baidu.com/s/1k1z90EyLaL85PqeSxxlWOw?pwd=1652 
 - MBEG-L1 for University-1652: MBEG-L1-1652.pth
    - Drone -> Satellite: Recall@1:  92.50   AP: 93.75
    - Satellite -> Drone: Recall@1:  94.15   AP: 91.57
-
-- MBEG-L1 for University-160k: MBEG-L1-160k.pth
-   - Drone -> Satellite: Recall@1:  98.94	Recall@5:99.80	 Recall@10:99.84
 
 - MBEG-L2 for University-1652: MBEG-L2-1652.pth
    - Drone -> Satellite: Recall@1:  89.78   AP: 91.53
