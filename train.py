@@ -62,7 +62,7 @@ def train():
     print(len(class_names))
 
     model = model_.EVA(classes, drop_rate, block).cuda()
-    model.load_state_dict(torch.load("/root/autodl-tmp/weights/Modern_1652_2023-06-23-03:45:26/net_059.pth"))
+    # model.load_state_dict(torch.load("/root/autodl-tmp/weights/Modern_1652_2023-06-23-03:45:26/net_059.pth"))
 
     if LPN:
         ignored_params = list()
