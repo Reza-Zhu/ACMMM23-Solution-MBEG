@@ -56,16 +56,16 @@ class EVA(nn.Module):
             y1 = None
             f1 = None
         else:
-            with torch.no_grad():
-                x1 = self.model_1(x1)
+            
+            x1 = self.model_1(x1)
             y1, f1 = self.classifier(x1)
 
         if x2 is None:
             y2 = None
             f2 = None
         else:
-            with torch.no_grad():
-                x2 = self.model_2(x2)
+
+            x2 = self.model_2(x2)
             y2, f2 = self.classifier(x2)
         if self.training:
             return y1, y2, f1, f2
